@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(0, 102, 255);
+  color: white;
+}
+
+.titulo,
+.tituloimg {
+  text-align: center;
+}
+
+.tituloimg {
+  color: black;
+}
+
+.fild1 {
+  background-color: white;
+  border: 0px;
+  border-radius: 10px;
+  height: 60px;
+  width: 160px;
+  box-shadow: rgba(0, 0, 0, 0.426) 2px 2px 2px;
+  margin: 0px auto;
+}
+
+.imgs {
+  text-align: center;
+  height: 454px;
+  width: 505px;
+  border-radius: 10px;
+  margin: 0px auto;
+}
+
+img {
+  text-align: center;
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.426) 2px 2px 2px;
+}
